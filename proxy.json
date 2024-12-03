@@ -1,0 +1,11 @@
+{
+    "proxy1": {
+        "uri": "http://194.164.23.13:443",
+        "keywords": ["google", "score", "wikipedia"]
+    },
+    "proxy2": {
+        "uri": "http://14a24e37e242c:e757522732@85.237.213.144:12323",
+        "keywords": ["myip"]
+    }
+}
+
